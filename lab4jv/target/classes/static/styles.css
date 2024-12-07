@@ -1,0 +1,27 @@
+.clr{
+    color: darkorange;
+}
+
+.headW {
+    background-color: darkred;
+    overflow: hidden;
+}
+
+.headW a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.headW a:hover {
+    background-color: greenyellow;
+    color: darkorange;
+}
+
+.headW a.active {
+    background-color: darkviolet;
+    color: yellow;
+}
